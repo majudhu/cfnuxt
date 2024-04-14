@@ -12,9 +12,11 @@
     "build-cf-types": "wrangler types"
   },
   "dependencies": {
+    "@nuxt/ui": "^2.15.2",
     "nuxt": "^3.11.2",
     "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue-router": "^4.3.0",
+    "zod": "^3.22.4"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240405.0",

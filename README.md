@@ -1,4 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Nuxt Cloudflare WASM Test ft. argon2 password hash
+
+[Demo](https://cfnuxt-amq.pages.dev/)
+
+## Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
