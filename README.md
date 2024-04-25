@@ -1,6 +1,6 @@
 # Nuxt Cloudflare WASM Test ft. argon2 password hash
 
-[Demo](https://cfnuxt-amq.pages.dev/)
+[Demo](https://cfnuxt-amq.pages.dev/)  
 [Full Demo](https://nuxt-ui-drzzl-neon.pages.dev/) [src](https://github.com/majudhu/nuxt-ui-drzzl-neon/tree/cf)
 
 ## Nuxt 3 Minimal Starter
